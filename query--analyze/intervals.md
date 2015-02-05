@@ -1,0 +1,1 @@
+Intervals are based on the document's timestamp, and the following are available: `second`, `minute`, `hour`, `day`, `month` and `year`.
